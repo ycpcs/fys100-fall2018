@@ -6,7 +6,9 @@ title: "Syllabus"
 # FYS 100.132
 <div id="subtitle">Creative Computing, Fall 2018</div>
 
-Meeting time: MW 3:00-4:15 in DHL 117
+Meeting time: MW 3:00-4:15 in CEC 104
+
+Note that CEC is the Civil Engineering Center.  This building is new!  To get to it, walk west on Jackson St until you reach Grantley Road, then turn right.  The CEC is on your right, just past the train tracks.
 
 Instructor | Email | Office hours
 ---------- | ----- | ------------
