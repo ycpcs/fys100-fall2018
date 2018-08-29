@@ -3,11 +3,13 @@ layout: default
 title: "Assignment 2: Team project proposal"
 ---
 
-**Due**: Tuesday, Sept 19th by 11:59 PM
+**Due**: Tuesday, Sept 18th by 11:59 PM
 
 In this assignment you will propose an idea for a team project.  First, read the **Concept** section, which describes the concept for the team project.  Next, read the **Requirements** section, which describes the requirements for the team project.  Finally, read the **Deliverable** section, which explains what information you should include in your team's proposal.
 
 Please submit your proposal according to the instructions in the **Submitting** section.
+
+If you would like me to help you find a team to work with [send me an email](mailto:dhovemey@ycp.edu).
 
 # Concept
 
@@ -37,8 +39,6 @@ This section lists some of the possible sensors and actuators you can use in you
 
 Sensor | Type 
 ---------- | ---- 
-<<<<<<< HEAD
-=======
 [Accelerometer](../resources/datasheets/Accelerometer.pdf) | Used to determine motion.
 [Force sensitive resistor](../resources/datasheets/ForceSensitiveResistor.pdf) | Senses the force applied to a surface.
 [Motion detector](../resources/datasheets/MotionDetector.pdf) | Detects motion in the space in front of the sensor.
@@ -49,7 +49,6 @@ Sensor | Type
 [Slider](../resources/datasheets/Sliders.pdf) | A strip that detects touch.
 [Ultrasonic range finder](../resources/datasheets/UltrasonicRangeFinder.pdf) | Detects the distance of objects from the sensor.
 [Vibration motor](../resources/datasheets/VibrationMotor.pdf) | Vibrates (like a cell phone in vibrate mode.)
->>>>>>> refs/remotes/origin/gh-pages
 
 
 # Requirements
@@ -59,6 +58,8 @@ The requirements for the team project are as follows.
 Your team needs to have 2 or 3 members.
 
 Your installation must use the embedded computer and touchscreen to display an animation and produce sound.
+
+Your installation must be *no larger* than 2' x 2' x 2' in size.
 
 Your installation must include at least one sensor (in addition to the touchscreen's touch sensor) to sense the physical environment.
 
