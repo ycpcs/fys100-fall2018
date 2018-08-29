@@ -15,7 +15,6 @@ Welcome to the FYS 100.132 home page!  All of the information about the course w
 * [Schedule](schedule.html) &mdash; Schedule of topics, activities, and readings, and assignments
 * [Resources](resources.html) &mdash; Useful resources, including links to software we will be using
 * [Assignments](assign/index.html) &mdash; Assignments you will work on outside of class
-* [Events Calendar](media/EventsCalendar.pdf) &mdash; First-year experience events for Fall 2017
 
 ## News
 

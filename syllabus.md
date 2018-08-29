@@ -94,8 +94,9 @@ Grades are assigned on a 100-point scale:
 
 Your overall grade for the course will be determined as follows:
 
-* Assignments: 90%
-* Attendance and participation: 10%
+* Assignments: 85%
+* Attendance: 5%
+* Participation: 10%
 
 ### Course website
 
@@ -119,9 +120,9 @@ Assignments may be submitted up to two (2) days late, with a grade reduction of 
 
 Class meetings will consist primarily of activities, discussions, and presentations, so it is extremely important that you attend every class meeting, and participate fully in each class meeting.
 
-Repeated unexcused absences, or failure to participate in class activities, will reduce your participation grade.  We will consider 6 or more unexcused absences to be grounds for assigning a failing grade for the course.
+Repeated unexcused absences, or failure to participate in class activities, will reduce your participation grade.  I will consider 6 or more unexcused absences to be grounds for assigning a failing grade for the course.
 
-If there are unavoidable circumstances that prevent you from attending a class meeting, please let us know as soon as you can so we can work out an accomodation.
+If there are unavoidable circumstances that prevent you from attending a class meeting, please let me know as soon as you can so we can work out an accomodation.
 
 ### Academic Integrity
 
