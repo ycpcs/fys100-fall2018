@@ -18,7 +18,7 @@ Welcome to the FYS 100.132 home page!  All of the information about the course w
 
 ## News
 
-* **Aug 29** &mdash; Welcome!  [Assignment 0](assign/assign00.html) is due by the end of day today. (Don't worry, it's short!)
+* **Aug 29** &mdash; Welcome!  [Assignment 0](assign/assign00.html) is due by the end of day today. (Don't worry, it's short!)  Also, [Assignment 1](assign/assign01.html) and [Assignment 2](assign/assign02.html) have been posted.
 
 <!-- vim:set wrap: -->
 <!-- vim:set linebreak: -->
