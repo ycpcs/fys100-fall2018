@@ -1,11 +1,13 @@
 ---
 layout: default
-title: "Assignment 2: Journal"
+title: "Assignment 1: Journal"
 ---
 
 This assignment is ongoing throughout the semester.
 
 Each journal entry is due on 11:59 PM on Sunday, thoughout the semester, starting Sunday, September 2nd.
+
+**Important**: For this assignment, late submissions won't (necessarily) be accepted.  In order for me to keep up with your journal entries, I need to be able to read them on Monday, so they need to be done by Sunday.
 
 # Learning goals
 
