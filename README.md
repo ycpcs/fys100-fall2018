@@ -10,7 +10,7 @@ Unless indicated otherwise, all materials are
 
 Copyright (c) 2015&ndash;2018, David H. Hovemeyer &lt;<dhovemey@ycp.edu>&gt;
 
-Copyright (c) 2016&ndash;2018, Jason Forsyth &lt;<forsy2jb@jmu.edu>&gt;
+Copyright (c) 2016&ndash;2017, Jason Forsyth &lt;<forsy2jb@jmu.edu>&gt;
 
 Unless indicated otherwise, all of the materials on this website
 are open source, and may be used, modified, and redistributed
