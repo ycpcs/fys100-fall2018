@@ -5,9 +5,9 @@ title: "Assignment 3: Visual Art"
 
 Due dates:
 
-* Outline of essay due **Friday, Sept 15th** by 11:59 PM
-* Draft of essay due **Thursday, Sept 21st** by 11:59 PM
-* Final essay and code due **Thursday, Oct 5th** by 11:59 PM
+* Outline of essay due **Wednesday, Sept 19th** by 11:59 PM
+* Draft of essay due **Wednesday, Sept 26th** by 11:59 PM
+* Final essay and code due **Wednesday, Oct 3rd** by 11:59 PM
 
 # Learning goals
 

@@ -146,6 +146,6 @@ At this point, you probably have a pretty good idea of what's going on in a basi
 
 You can consult the [Processing reference](https://processing.org/reference/) for a complete list of all Processing functions, including the drawing functions.
 
-To finish up, please start your own Processing sketch by following the instructions in the **Getting started** section of [Assignment 2](../assign/assign02.html).  This should create a sketch called `VisualArtProject`.
+To finish up, please start your own Processing sketch by following the instructions in the **Getting started** section of [Assignment 3](../assign/assign03.html).  This should create a sketch called `VisualArtProject`.
 
 In the time remaining, start to translate the sketch you made on the [graph paper](../media/graphpaper.pdf) into drawing operations in your new Processing sketch.  You probably won't be able to create the entire image, but if you do at least a few shapes, that's great.
