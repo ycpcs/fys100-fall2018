@@ -27,6 +27,10 @@ Click the run button, which looks like this:
 
 > ![Run button](../img/runButton.png)
 
+<div class="callout">
+The Processing software is not working correctly in CEC 104.  As a temporary workaround, download <a href="lab01.zip">lab01.zip</a>.  Further instructions will be given in class.
+</div>
+
 ## Part 3: Drawing with Processing
 
 When the sketch runs, it draws a smiley face and some boxes (click for full size):
