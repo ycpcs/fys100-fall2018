@@ -12,7 +12,7 @@ Note that CEC is the Civil Engineering Center.  This building is new!  To get to
 
 Instructor | Email | Office hours
 ---------- | ----- | ------------
-[David Hovemeyer](http://faculty.ycp.edu/~dhovemey) | [dhovemey@ycp.edu](mailto:dhovemey@ycp.edu) | In KEC 101: TBD
+[David Hovemeyer](http://faculty.ycp.edu/~dhovemey) | [dhovemey@ycp.edu](mailto:dhovemey@ycp.edu) | In KEC 101: MWF 11-12, T 2-3, Th 1-2
 
 Course Description
 ------------------
