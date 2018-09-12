@@ -158,7 +158,7 @@ That's right.  By *calling* the `drawSmiley` function, and specifying the exact 
 
 Just for reference, here's the complete sketch with the function, just so you can make sure that your version is correct (just click on the link to see the code):
 
-> [RepetitionWithFunc.pde](https://github.com/ycpcs/fys100-fall2016/blob/gh-pages/labs/RepetitionWithFunc.pde)
+> [RepetitionWithFunc.pde](https://github.com/ycpcs/fys100-fall2018/blob/gh-pages/labs/RepetitionWithFunc.pde)
 
 ## Part 5: Using a function to draw repeated elements in your sketch
 
