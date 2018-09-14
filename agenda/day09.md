@@ -1,14 +1,23 @@
 ---
 layout: default
-title: "Day 9 agenda"
+title: "Day 09 agenda"
 ---
 
 # Agenda
 
-We will work on [Lab 5](../labs/lab05.html) in class.  This is the beginning of the music unit of the course, and we will start by experimenting with rhythms and bass lines.
+We will be working on [Lab 6](../labs/lab06.html), in which we experiment with melodies.
 
 ## Get ready
 
-<img class="parimg" alt="Get ready" src="img/getready.png"> Do two things to get ready for class.  First, read the description for [Lab 5](../labs/lab05.html).  Second, find a pair of headphones or earbuds and bring them to class.  Note that they will need to have a standard 3.5mm analog audio plug &mdash; bluetooth headphones won't work.
+<img class="parimg" alt="Get ready" src="img/getready.png">
 
-<div style="clear: both;"></div>
+There are two things you should do.
+
+First, create a document in your shared Google Drive folder called **MusicCompositionPlan**.  In it, write
+
+* What style of music composition you are creating
+* What kind of mood or feelings you would like to evoke
+* What type of instrument sounds you plan to use
+* What you think the structure of your composition will be (i.e., ABACAB), and what the parts will sound like
+
+Second, read through the description of [Lab 6](../labs/lab06.html).

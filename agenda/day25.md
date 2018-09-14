@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Day 26 agenda"
+title: "Day 27 agenda"
 ---
 
 # Agenda

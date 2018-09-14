@@ -5,19 +5,16 @@ title: "Day 10 agenda"
 
 # Agenda
 
-We will be working on [Lab 6](../labs/lab06.html), in which we experiment with melodies.
+On day 11 we will work on [Lab 7](../labs/lab07.html).
 
 ## Get ready
 
 <img class="parimg" alt="Get ready" src="img/getready.png">
 
-There are two things you should do.
+Your task to get ready is to find some *samples*: short audio clips that you can play back as part of your composition.  One very good place to find samples is [freesound.org](http://www.freesound.org/).
 
-First, create a document in your shared Google Drive folder called **MusicCompositionPlan**.  In it, write
+Make sure that your samples have a sample rate of 44.1 KHz (which is 41,000 Hz).  Both mono and stereo samples are fine.
 
-* What style of music composition you are creating
-* What kind of mood or feelings you would like to evoke
-* What type of instrument sounds you plan to use
-* What you think the structure of your composition will be (i.e., ABACAB), and what the parts will sound like
+Create a folder called `Samples` on your `H:` drive and copy your samples into it.
 
-Second, read through the description of [Lab 6](../labs/lab06.html).
+<div style="clear: both;"></div>

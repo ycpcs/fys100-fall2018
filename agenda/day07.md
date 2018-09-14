@@ -5,14 +5,18 @@ title: "Day 7 agenda"
 
 # Agenda
 
-On day 7 we will experiment with *Generative Art*, which is a term used to describe art that is the result of a process or computation.
-
-In particular, we will investigate *fractals*, which are visual patterns that exhibit self-similarity.  Fractals are often found in nature.
+On day 7 we will discuss [Noll67](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5217127).
 
 ## Get ready
 
 <img class="parimg" alt="Get ready" src="img/getready.png">
 
-To get ready, do the reading from the textbook (Chapters 4&ndash;5) and from [Chapter 8](http://natureofcode.com/book/chapter-8-fractals/) of [The Nature of Code](http://natureofcode.com/).  Also, read through the description of [Lab 4](../labs/lab04.html).
+To prepare for the discussion, think about the following questions, and compose your reponses to them.  Save your responses in your shared Google Drive folder, in a document called **NollResponses**.  Make sure your responses are finished before you come to class.
+
+1. The article was written in 1967.  What aspects of using computers as a creative medium have changed?  What aspects have stayed the same?
+2. The article describes the outcome of a survey asking respondents to compare two pictures, a painting by Mondrian and a computer-generated facsimile of the same painting, and guess which was the "real" one (the actual Mondrian painting.)  The majority of respondents guessed incorrectly.  What do you think the significance of this result is?
+3. Are there any aspects of the way the article of written&mdash;particularly, in its use of language&mdash;that seem out of date?
+4. The article makes some predictions about the future of computers as an artistic medium. Which do you think were accurate?  Which do you think weren't?
+5. The article raises the question of whether generative art is "creative", and if so, whether the creativity should be attributed to the computer or the person who wrote the program.  What do you think about this?
 
 <div style="clear: both;"></div>
