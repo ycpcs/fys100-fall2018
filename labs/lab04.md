@@ -11,6 +11,19 @@ title: "Lab 4: Turtles and Fractals"
 * Appreciate how self-similarity at varying scales leads to "natural"-looking images
 * Understand how to use a recursive method to generate a fractal image
 
+# Getting started
+
+To get started, do the following:
+
+* Download [ProcessingLibs.zip](../resources/ProcessingLibs.zip)
+* Open `ProcessingLibs.zip` in a file browser
+* Copy the `Terrapin` folder (right click, then choose "Copy")
+* In a file browser, navigate to your `Processing` folder
+* Navigate into the `libraries` folder inside your `Processing` folder
+* Paste the `Terrapin` folder (right-click, then choose "Paste")
+
+Now, start Processing.  The steps above install the [Terrapin](https://terrapin.sourceforge.net) library that we will use for turtle graphics.
+
 # What to do
 
 Your task is to use turtle graphics and Processing drawing functions to draw cool-looking images, and in particular, fractal images.  The general idea is that the sketch should use a procedure based on simple rules to create the image.
