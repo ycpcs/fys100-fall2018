@@ -6,6 +6,8 @@ title: "Syllabus"
 # FYS 100.132
 <div id="subtitle">Creative Computing, Fall 2018</div>
 
+*Updated Sept 24* &mdash; Updated the grade breakdown to indicate that 10% of the course grade is based on your attendance and particpation in the Common Hour events
+
 Meeting time: MW 3:00-4:15 in CEC 104
 
 Note that CEC is the Civil Engineering Center.  This building is new!  To get to it, walk west on Jackson St until you reach Grantley Road, then turn right.  The CEC is on your right, just past the train tracks.
@@ -94,9 +96,10 @@ Grades are assigned on a 100-point scale:
 
 Your overall grade for the course will be determined as follows:
 
-* Assignments: 85%
-* Attendance: 5%
-* Participation: 10%
+* Assignments: 76.5%
+* Attendance: 4.5%
+* Participation: 9%
+* Common hour events: 10%
 
 ### Course website
 

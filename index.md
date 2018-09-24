@@ -18,6 +18,7 @@ Welcome to the FYS 100.132 home page!  All of the information about the course w
 
 ## News
 
+* **Sep 24** &mdash; The [syllabus](syllabus.html) has been updated to reflect that 10% of your course grade is determined by your attendance and participation in Common Hour events.
 * **Sep 14** &mdash; An additional reading has been added to the [Day 6](agenda/day06.html) agenda.
 * **Sep 11** &mdash; I updated the [syllabus](syllabus.html) to include my office hours.
 * **Sep 5** &mdash; [Assignment 3](assign/assign03.html) has been posted.
