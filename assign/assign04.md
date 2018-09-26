@@ -5,8 +5,8 @@ title: "Assignment 4: Music composition"
 
 Due dates:
 
-* Draft of essay due **Friday, Oct 13th** by 11:59 PM
-* Final essay and code due **Thursday, Oct 26th** by 11:59 PM
+* Draft of essay due **Wednesday, Oct 10th** by 11:59 PM
+* Final essay and code due **Monday, Oct 22nd** by 11:59 PM
 
 # Learning goals
 
@@ -17,58 +17,15 @@ Due dates:
 
 # Getting started
 
-Start Processing.  You should see an empty Processing window.  Copy and paste the following code into the window:
+Start Processing.  You should see an empty Processing window.  Copy and paste the code from the following sketch:
 
-{% highlight java %}
-import io.github.daveho.funwithsound.*;
-
-FunWithSound fws = new FunWithSound(this);
-
-// Directory where you keep your soundfonts
-String SOUNDFONTS = "C:/SoundFonts";
-
-String TR808 = SOUNDFONTS + "/tr808/Roland_TR-808_batteria_elettronica.sf2";
-String FLUID = SOUNDFONTS + "/fluid/FluidR3 GM2-2.SF2";
-
-class MyComp extends Composer {
-  void create() {
-    tempo(110, 4);
-    major(60);
-
-    // Create instruments
-    Instrument drumkit = percussion(TR808);
-
-    // Create rhythms, melodies, and figures
-    Rhythm kickr = r(p(0), p(1), p(2), p(3));
-    Figure kickf = pf(kickr, 36, drumkit);
-
-    // Schedule figures to be played
-    add1(gf(kickf));
-    add1(gf(kickf));
-  }
-}
-
-MyComp c = new MyComp();
-
-void setup() {
-  size(600,200);
-  textSize(32);
-  fill(0);
-  text("Click to start playing", 125, 140); 
-  c.create();
-}
-
-void draw() {
-}
-
-void mouseClicked() {
-  fws.play(c);
-}
-{% endhighlight %}
+> [Experiment.pde](https://github.com/ycpcs/fys100-fall2018/blob/gh-pages/assign/Experiment.pde)
 
 Choose **File &rarr; Save As...**.  Make sure that your sketchbook folder (`H:/My Documents/Processing`) is selected as the folder.)  In the **Selection** text box, enter **MusicComposition**.  Click **OK**.
 
 Congratulations!  You have created a Processing sketch called **MusicComposition**.
+
+**Incredibly important and significant advice**: You should *mess around* with the code in the starting point sketch (`Experiment.pde`).  It is designed explicitly to demonstrate how basic rhythms, melodies, and figures are created, and how they can be arranged into a composition.  You should know that the specific values (beats, durations, note numbers, etc.) were chosen more or less arbitrarily.  You will find that, in general, trying random values will often create an interesting result.  So, you don't need to obsess too much about what you want the composition to sound like.  Just try some random things, *listen critically*, and see if it works!  If it doesn't work, change it!
 
 # What to do
 
@@ -78,6 +35,8 @@ Congratulations!  You have created a Processing sketch called **MusicComposition
 
 ## Music composition Processing sketch
 
+### Expectations
+
 Write a Processing sketch to create a music composition.  Your composition should be a continuation of the work you did in [Lab 5](../labs/lab05.html), [Lab 6](../labs/lab06.html), and [Lab 7](../labs/lab07.html).
 
 At a minimum, your composition should include percussion figures, melodic figures, and should have an overall structure.  We would encourage you to consider adding the following optional elements:
@@ -86,6 +45,22 @@ At a minimum, your composition should include percussion figures, melodic figure
 * Samples (see [Lab 7](../labs/lab07.html))
 
 Please note that we do not want you to treat these features as a laundry list: we expect that for any element you incorporate into the composition, you have a specific artistic motivation for including it.
+
+### What to create?
+
+In creating your music composition, you should have an intention.  Here's a suggestion: imagine you are composing music for an introductory sequence for a video.  What characteristics should it have?  It should probably be:
+
+* Fairly short: 15-30 seconds
+* Catchy!
+* Distinctive
+
+Here is a composition that is, indeed, used in the intro sequence for a [video series](https://www.youtube.com/playlist?list=PL9zJKV-F2eMyKY6qdesRQP_mAhBCMSw2T) I am working on:
+
+> [Intro.pde](https://github.com/ycpcs/fys100-fall2018/blob/gh-pages/assign/Intro.pde)
+
+Note that although this composition is short (about 17 seconds), a significant amount of effort was invested in creating the rhythms and melodies, choosing soundfonts and instruments, and arranging the figures to create a sense of "purpose" in the composition.
+
+### Submitting the sketch
 
 Submit your sketch by uploading it to your shared Google Drive folder.  Your sketch is a file that has a ".pde" file extension.  You can upload a file to a Google Drive folder by clicking **New**, choosing **File upload**, and then selecting the file you want to upload.
 

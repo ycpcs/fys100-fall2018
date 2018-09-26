@@ -45,7 +45,7 @@ Please read the [Basics documentation](https://github.com/daveho/FunWithSound/wi
 
 Let's start with a first sketch.  Start Processing.  Then, click on the following link and copy the program text into your Processing window:
 
-> [Beats.pde](https://github.com/ycpcs/fys100-fall2016/blob/gh-pages/labs/demo/lab05/Beats.pde)
+> [Beats.pde](https://github.com/ycpcs/fys100-fall2018/blob/gh-pages/labs/demo/lab05/Beats.pde)
 
 Save the sketch as `Beats`.  Run the sketch.  You should see the following:
 
@@ -195,7 +195,7 @@ A few things to note:
 
 In case you would like to see the entire demo sketch, click the following:
 
-> [Beats2.pde](https://github.com/ycpcs/fys100-fall2016/blob/gh-pages/labs/demo/lab05/Beats2.pde)
+> [Beats2.pde](https://github.com/ycpcs/fys100-fall2018/blob/gh-pages/labs/demo/lab05/Beats2.pde)
 
 ## Some stuff to try!
 
@@ -212,7 +212,7 @@ This composition is obviously just a starting point.  Here are some things to tr
 
 Here is a somewhat more complete example:
 
-> [Thieves.pde](https://github.com/ycpcs/fys100-fall2016/blob/gh-pages/labs/demo/lab05/Thieves.pde)
+> [Thieves.pde](https://github.com/ycpcs/fys100-fall2018/blob/gh-pages/labs/demo/lab05/Thieves.pde)
 
 Feel free to copy this into a blank sketch and run it.  (Apologies to [New Order](https://www.youtube.com/watch?v=VVQfJ5xCpuY).)
 

@@ -15,8 +15,8 @@ Assignment | Type | Due
 [Assignment 1: Journal](assign01.html) | Writing | Update due every Sunday, starting Sunday, Sept 2nd
 [Assignment 2: Team project proposal](assign02.html) | Group | Tuesday, Sept 19th
 [Assignment 3: Visual Art](assign03.html) | Individual project | Essay outline due Wednesday, Sept 19th<br>Essay draft due Wednesday, Sept 26th<br>Final essay and code due Wednesday, Oct 3rd
+[Assignment 4: Music Composition](assign04.html) | Individual project | Essay draft due Wednesday, Oct 10th<br>Final essay and code due Monday, Oct 22nd
 
 <!--
-[Assignment 4: Music Composition](assign04.html) | Individual project | Essay draft due Friday, Oct 13th<br>Final essay and code due Thurs, Oct 26th
 [Assignment 5: Computers and Creativity](assign05.html) | Writing | See assignment description
 -->
