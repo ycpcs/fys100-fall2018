@@ -35,7 +35,7 @@ MIDI represents instruments abstractly as *patch numbers*.  Essentially, differe
 
 The precise way that MIDI messages are translated into instrument sounds depends on the device that is responsible for interpreting and rendering MIDI notes.  In this course, we will be using a software synthesizer called Gervill that is built into Processing.  Gervill can generate its own sounds, but they are very dull, so we won't be using them.  Instead we will be using *soundfonts*.  A soundfont is a collection of instrument sounds that can be used to render MIDI notes.  By telling Gervill which soundfont or soundfonts we want to use in a composition, we have control over the sound of the notes played.
 
-There are lots of soundfonts available for free download: the [Hammersound](http://www.hammersound.net/) website is a good one, but there are many others.  On the computers in KEC 123, we have created a directory `C:/SoundFonts` containing a selection of good soundfonts.
+There are lots of soundfonts available for free download: the [Hammersound](http://www.hammersound.net/) website is a good one, but there are many others.  On the computers in CEC 104, we have created a directory `C:/SoundFonts` containing a selection of good soundfonts.  You can also [download this collection of soundfonts](https://drive.google.com/open?id=0Bz83qbgNYuDXdjI3d1BWQ0liRkU) (warning: the file is more than 900 MB in size) in order to use them on your own computer.
 
 ## Rhythms, Melodies, and Figures
 
