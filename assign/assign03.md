@@ -7,7 +7,7 @@ Due dates:
 
 * Outline of essay due **Wednesday, Sept 19th** by 11:59 PM
 * Draft of essay due **Wednesday, Sept 26th** by 11:59 PM
-* Final essay and code due **Wednesday, Oct 3rd** by 11:59 PM
+* Final essay and code due <strike>Wednesday, Oct 3rd</strike> **Friday, Oct 5th** by 11:59 PM
 
 # Learning goals
 
