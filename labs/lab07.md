@@ -175,4 +175,31 @@ Putting it all together, here is the overall composition:
 
 Here is the complete code for the sketch:
 
-> [SamplePlayback.pde](https://github.com/ycpcs/fys100-fall2016/blob/gh-pages/labs/demo/lab07/SamplePlayback.pde)
+> [SamplePlayback.pde](https://github.com/ycpcs/fys100-fall2018/blob/gh-pages/labs/demo/lab07/SamplePlayback.pde)
+
+## Using samples creatively
+
+The example shown above is a bit cheesy.  It's important to realize that samples can be used very creatively/artistically.
+
+My favorite example of music incorporating samples:
+
+<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/uEhzAfiOl_c?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+
+My own personal effort to use samples creatively:
+
+<div style="text-align: center;"><iframe width="60%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/222058235&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></div>
+
+You can download the code for this composition:
+
+> [LinuxTechno2.zip](LinuxTechno2.zip)
+
+Note that this is a zipfile because it contains two samples.  To import it into your Processing folder, click on the zipfile, then copy the `LinuxTechno2` folder into your `Processing` folder.
+
+## Working with samples
+
+[Audacity](https://www.audacityteam.org/) is an excellent open-source audio file editor.  You may find it useful for working with samples, including
+
+* Converting a downloaded sample into the format that FunWithSound requires (44.1 KHz, 16 bit wave file)
+* Finding parts of a sample to play
+
+You can download [Audacity Portable](https://portableapps.com/apps/music_video/audacity_portable) for Windows: I will show how to use this in class.  You can install this on your own computer.
