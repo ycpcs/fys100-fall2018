@@ -18,6 +18,8 @@ Welcome to the FYS 100.132 home page!  All of the information about the course w
 
 ## News
 
+* **Oct 9** &mdash; The [Schedule](schedule.html) has been updated.
+* **Oct 5** &mdash; Class on Monday, Oct 8th is canceled.  The music discussion will be moved to Wednesday, Oct 10th.  (I will update the [schedule](schedule.html) soon.)
 * **Sep 30** &mdash; The due date for the final essay and code for [Assignment 3](assign/assign03.html) has been moved to **Friday, Oct 5th**.
 * **Sep 26** &mdash; [Assignment 4](assign/assign04.html) has been posted: see the assignment description for deliverables and due dates.
 * **Sep 24** &mdash; The [syllabus](syllabus.html) has been updated to reflect that 10% of your course grade is determined by your attendance and participation in Common Hour events.
