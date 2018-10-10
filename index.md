@@ -18,6 +18,7 @@ Welcome to the FYS 100.132 home page!  All of the information about the course w
 
 ## News
 
+* **Oct 10** &mdash; The due dates for the draft and final essay/code for [Assignment 4](assign/assign04.html) have been moved to Wednesday, Oct 17th and Wednesday, Oct 24th, respectively.
 * **Oct 9** &mdash; The [Schedule](schedule.html) has been updated.
 * **Oct 5** &mdash; Class on Monday, Oct 8th is canceled.  The music discussion will be moved to Wednesday, Oct 10th.  (I will update the [schedule](schedule.html) soon.)
 * **Sep 30** &mdash; The due date for the final essay and code for [Assignment 3](assign/assign03.html) has been moved to **Friday, Oct 5th**.

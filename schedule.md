@@ -38,21 +38,22 @@ Wed, Sep 26 | <span class="topic-mus">MU</span> | [Lab 5: Drum and bass](labs/la
 Mon, Oct 1 | <span class="topic-mus">MU</span> | [Lab 6: Melodies](labs/lab06.html) | [Day 9](agenda/day09.html) | &mdash; | &mdash;
 Wed, Oct 3 | <span class="topic-mus">MU</span> | [Lab 7: Sample playback](labs/lab07.html) | [Day 10](agenda/day10.html) | [A3 essay, code](assign/assign03.html) (due by **Friday**) | &mdash;
 Mon, Oct 8 |  | *Class canceled* |  | &mdash; | &mdash;
-Wed, Oct 10 | <span class="topic-mus">MU</span> | Computers and music discussion  | [Day 11](agenda/day11.html) | [A4 draft](assign/assign04.html) (Friday) | [IAMUSDocumentary](https://www.youtube.com/watch?v=ETGDbWvWCbM), [Guardian1Jul12](http://www.theguardian.com/music/2012/jul/01/iamus-computer-composes-classical-music), and [0musicPlaylist](https://www.youtube.com/playlist?list=PLwUOBZdCYUCMjW1DKCQxqVJp3xmoh42e2)
+Wed, Oct 10 | <span class="topic-mus">MU</span> | Computers and music discussion  | [Day 11](agenda/day11.html) | &mdash; | [IAMUSDocumentary](https://www.youtube.com/watch?v=ETGDbWvWCbM), [Guardian1Jul12](http://www.theguardian.com/music/2012/jul/01/iamus-computer-composes-classical-music), and [0musicPlaylist](https://www.youtube.com/playlist?list=PLwUOBZdCYUCMjW1DKCQxqVJp3xmoh42e2)
 Mon, Oct 15 |  | *Fall vacation, no class* | &mdash; | &mdash; | &mdash;
-Wed, Oct 17 | <span class="topic-sc">SC</span> | Ready, set, registration! | &mdash; | &mdash; | &mdash;
-Mon, Oct 22 | <span class="topic-sci">PS</span> | [Lab 8: Outbreak](labs/lab08.html) | [Day 12](agenda/day12.html) | [A4 essay, code](assign/assign04.html) | &mdash;
-Mon, Oct 29 | <span class="topic-hum">DH</span> | [Lab 9: N-grams](labs/lab09.html) | [Day 14](agenda/day14.html) | &mdash; | &mdash;
-Wed, Oct 31 | <span class="topic-phy">PH</span> | [Lab 10: Physical Computing with Scratch - Day 1](labs/lab10.html) | [Day 15](agenda/day15.html) | &mdash; | &mdash;
-Mon, Nov 5 | <span class="topic-phy">PH</span> | Ubiquitous and Pervasive Computing Discussion | [Day 16](agenda/day16.html) | [A5 bibliography](assign/assign05.html) | [Weiser91](http://www.lri.fr/~mbl/Stanford/CS477/papers/Weiser-SciAm.pdf)
-Sun, Oct 7 | <span class="topic-phy">PH</span> | Lab 10: Physical Computing with Scratch - Day 2 | &mdash; | &mdash; | &mdash;
-Mon, Nov 12 | <span class="topic-phy">PH</span> | Wearable Computing Discussion and Team Building | [Day 18](agenda/day18.html) | &mdash; | [Starner2001a](http://ieeexplore.ieee.org/document/946681/),  [Starner2001b](http://ieeexplore.ieee.org/document/946683/), [SignAloud News Release](http://www.washington.edu/news/2016/04/12/uw-undergraduate-team-wins-10000-lemelson-mit-student-prize-for-gloves-that-translate-sign-language/), and [SignAloud Gloves Demo](https://www.youtube.com/watch?v=l01sdzJHCCM)
-Wed, Nov 14 | <span class="topic-phy">PH</span> | [Lab 11: Designing Children's Toys with Scratch - Day 1](labs/lab11.html) |  | [A5 outline](assign/assign05.html) | &mdash;
+Wed, Oct 17 | <span class="topic-sc">SC</span> | Ready, set, registration! | &mdash; | [A4 draft](assign/assign04.html) | &mdash;
+Mon, Oct 22 | <span class="topic-sci">PS</span> | [Lab 8: Outbreak](labs/lab08.html) | [Day 12](agenda/day12.html) | &mdash; | &mdash;
+Wed, Oct 24 | <span class="topic-hum">DH</span> | [Lab 9: N-grams](labs/lab09.html) | [Day 14](agenda/day14.html) | [A4 essay, code](assign/assign04.html) | &mdash;
+Mon, Oct 29 | <span class="topic-phy">PH</span> | [Lab 10: Physical Computing with Scratch - Day 1](labs/lab10.html) | [Day 15](agenda/day15.html) | &mdash; | &mdash;
+Wed, Oct 31 | <span class="topic-phy">PH</span> | Ubiquitous and Pervasive Computing Discussion | [Day 16](agenda/day16.html) | [A5 bibliography](assign/assign05.html) | [Weiser91](http://www.lri.fr/~mbl/Stanford/CS477/papers/Weiser-SciAm.pdf)
+Mon, Nov 5 | <span class="topic-phy">PH</span> | Lab 10: Physical Computing with Scratch - Day 2 | &mdash; | &mdash; | &mdash;
+Sun, Oct 7 | <span class="topic-phy">PH</span> | Wearable Computing Discussion and Team Building | [Day 18](agenda/day18.html) | &mdash; | [Starner2001a](http://ieeexplore.ieee.org/document/946681/),  [Starner2001b](http://ieeexplore.ieee.org/document/946683/), [SignAloud News Release](http://www.washington.edu/news/2016/04/12/uw-undergraduate-team-wins-10000-lemelson-mit-student-prize-for-gloves-that-translate-sign-language/), and [SignAloud Gloves Demo](https://www.youtube.com/watch?v=l01sdzJHCCM)
+Mon, Nov 12 | <span class="topic-phy">PH</span> | [Lab 11: Designing Children's Toys with Scratch - Day 1](labs/lab11.html) |  | [A5 outline](assign/assign05.html) | &mdash;
+Wed, Nov 14 | <span class="topic-phy">PH</span> | [Lab 11: Designing Children's Toys with Scratch - Day 2](labs/lab11.html) | &mdash; | &mdash; | &mdash;
 Mon, Nov 19 |  | *Thanksgiving vacaction, no class* | &mdash; | &mdash; | &mdash;
-Wed, Nov 21 | <span class="topic-phy">PH</span> | [Lab 11: Designing Children's Toys with Scratch - Day 2](labs/lab11.html) | &mdash; | &mdash; | &mdash;
-Mon, Nov 26 | <span class="topic-phy">PH</span> | [Lab 12: Connecting Arduino and Processing](labs/lab12.html) | &mdash; | [A5 draft](assign/assign05.html) | &mdash;
-Wed, Nov 28 | <span class="topic-phy">PH</span> | Lab 14: Initial Project Prototyping | &mdash; | [A5 peer evals](assign/assign05.html) (by Friday) | &mdash;
-Mon, Dec 3 | <span class="topic-phy">PH</span> | Lab 15: Computing Machines that are Finite | &mdash; | &mdash; | &mdash;
+Wed, Nov 21 | <span class="topic-phy">PH</span> | [Lab 12: Connecting Arduino and Processing](labs/lab12.html) | &mdash; | [A5 draft](assign/assign05.html) | &mdash;
+Mon, Nov 26 | <span class="topic-phy">PH</span> | Lab 14: Initial Project Prototyping | &mdash; | [A5 peer evals](assign/assign05.html) (by Friday) | &mdash;
+Wed, Nov 28 | <span class="topic-phy">PH</span> | Lab 15: Computing Machines that are Finite | &mdash; | &mdash; | &mdash;
+Mon, Dec 3 | <span class="topic-phy">PH</span> | Work on Installation | &mdash; | &mdash; | &mdash;
 Wed, Dec 5 | <span class="topic-phy">PH</span> | Work on Installation | &mdash; | &mdash; | &mdash;
 Mon, Dec 10 | <span class="topic-phy">PH</span> | Work on Installation | &mdash; | [A5 essay](assign/assign05.html) | &mdash;
 Mon, Dec 17 | <span class="topic-phy">PH</span> | Final Presentation and Demos | &mdash; | &mdash; | &mdash;
