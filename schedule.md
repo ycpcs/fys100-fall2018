@@ -42,7 +42,7 @@ Wed, Oct 10 | <span class="topic-mus">MU</span> | Computers and music discussion
 Mon, Oct 15 |  | *Fall vacation, no class* | &mdash; | &mdash; | &mdash;
 Wed, Oct 17 | <span class="topic-sc">SC</span> | Ready, set, registration! | &mdash; | [A4 draft](assign/assign04.html) | &mdash;
 Mon, Oct 22 | <span class="topic-sci">PS</span> | [Lab 8: Outbreak](labs/lab08.html) | [Day 12](agenda/day12.html) | &mdash; | &mdash;
-Wed, Oct 24 | <span class="topic-hum">DH</span> | [Lab 9: N-grams](labs/lab09.html) | [Day 14](agenda/day14.html) | [A4 essay, code](assign/assign04.html) | &mdash;
+Wed, Oct 24 | <span class="topic-hum">DH</span> | [Lab 9: N-grams](labs/lab09.html) | [Day 14](agenda/day14.html) | [A4 essay, code](assign/assign04.html) (due by **Friday**) | &mdash;
 Mon, Oct 29 | <span class="topic-phy">PH</span> | [Lab 10: Physical Computing with Scratch - Day 1](labs/lab10.html) | [Day 15](agenda/day15.html) | &mdash; | &mdash;
 Wed, Oct 31 | <span class="topic-phy">PH</span> | Ubiquitous and Pervasive Computing Discussion | [Day 16](agenda/day16.html) | [A5 bibliography](assign/assign05.html) | [Weiser91](http://www.lri.fr/~mbl/Stanford/CS477/papers/Weiser-SciAm.pdf)
 Mon, Nov 5 | <span class="topic-phy">PH</span> | Lab 10: Physical Computing with Scratch - Day 2 | &mdash; | &mdash; | &mdash;

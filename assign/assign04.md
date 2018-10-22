@@ -6,7 +6,7 @@ title: "Assignment 4: Music composition"
 Due dates:
 
 * Draft of essay due <strike>Wednesday, Oct 10th</strike> Wednesday, Oct 17th by 11:59 PM
-* Final essay and code due <strike>Monday, Oct 22nd</strike> Wednesday, Oct 24th by 11:59 PM
+* Final essay and code due <strike>Wednesday, Oct 24th</strike> Friday, Oct 26th by 11:59 PM
 
 # Learning goals
 
