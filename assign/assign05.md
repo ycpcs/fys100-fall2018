@@ -5,15 +5,15 @@ title: "Assignment 5: Computers and Creativity"
 
 # Due dates
 
-**Annotated bibliography**: due Tuesday, Nov 7th by 11:59 PM
+**Annotated bibliography**: due Friday, Nov 2nd by 11:59 PM
 
-**Outline**: due Tuesday, Nov 14th by 11:59 PM
+**Outline**: due Friday, Nov 16th by 11:59 PM
 
-**Draft**: due Tuesday, Nov 28th by 11:59 PM
+**Draft**: due Friday, Nov 30th by 11:59 PM
 
-**Peer evaluations**: due Friday, Dec 1st by 11:59 PM
+**Peer evaluations**: due Wednesday, Dec 5th by 11:59 PM
 
-**Final essay**: due Friday, Dec 8th by 11:59 PM
+**Final essay**: due Wednesday, Dec 12th by 11:59 PM
 
 # Learning goals
 

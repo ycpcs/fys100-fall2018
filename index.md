@@ -18,6 +18,7 @@ Welcome to the FYS 100.132 home page!  All of the information about the course w
 
 ## News
 
+* **Oct 26** &mdash; [Assignment 5](assign/assign05.html) has been posted; see assignment description for due dates.  The first deliverable is an annotated bibliography, which is due Friday, Nov 2nd.
 * **Oct 22** &mdash; The due date for the [Assignment 4](assign/assign04.html) final essay and code has been moved to Friday, Oct 26th.
 * **Oct 10** &mdash; The due dates for the draft and final essay/code for [Assignment 4](assign/assign04.html) have been moved to Wednesday, Oct 17th and Wednesday, Oct 24th, respectively.
 * **Oct 9** &mdash; The [Schedule](schedule.html) has been updated.
