@@ -64,7 +64,7 @@ Readings/Videos/Media:
 * Lahey15: Jessica Lahey, [When Success Leads to Failure](http://www.theatlantic.com/education/archive/2015/08/when-success-leads-to-failure/400925/), The Atlantic, August 11th, 2015
 * Noll67: A. Michael Noll, [The digital computer as a creative medium](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5217127), IEEE Spectrum, Volume 4, Issue 10, Oct 1967 (Note that you will need to download this article from campus)
 * ShiffmanNOCCh8: Daniel Shiffman, [The Nature of Code, Chapter 8](http://natureofcode.com/book/chapter-8-fractals/)
-* Bailey2018Artnome: Jason Bailey, [Generative Art Finds Its Prodigy](https://www.artnome.com/news/2018/8/8/generative-art-finds-its-prodigy), Artnome, September 9th, 2019
+* Bailey2018Artnome: Jason Bailey, [Generative Art Finds Its Prodigy](https://www.artnome.com/news/2018/8/8/generative-art-finds-its-prodigy), Artnome, September 9th, 2018
 * IAMUSDocumentary: [IAMUS / MELOMICS documentary](https://www.youtube.com/watch?v=ETGDbWvWCbM)
 * Guardian1Jul12: [Iamus, classical music's computer composer, live from Malaga](http://www.theguardian.com/music/2012/jul/01/iamus-computer-composes-classical-music), Philip Ball, in The Guardian, July 1st, 2012
 * 0musicPlaylist: [0music](https://www.youtube.com/playlist?list=PLwUOBZdCYUCMjW1DKCQxqVJp3xmoh42e2)
