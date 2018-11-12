@@ -46,11 +46,11 @@ Wed, Oct 24 | <span class="topic-hum">DH</span> | [Lab 9: N-grams](labs/lab09.ht
 Mon, Oct 29 | <span class="topic-phy">PH</span> | [Lab 10: Physical Computing with Scratch - Day 1](labs/lab10.html) | [Day 15](agenda/day15.html) | &mdash; | &mdash;
 Wed, Oct 31 | <span class="topic-phy">PH</span> | Ubiquitous and Pervasive Computing Discussion | [Day 16](agenda/day16.html) | [A5 bibliography](assign/assign05.html) (due by **Friday**) | [Weiser91](http://www.lri.fr/~mbl/Stanford/CS477/papers/Weiser-SciAm.pdf)
 Mon, Nov 5 | <span class="topic-phy">PH</span> | Lab 10: Physical Computing with Scratch - Day 2 | &mdash; | &mdash; | &mdash;
-Wed, Oct 7 | <span class="topic-phy">PH</span> | Wearable Computing Discussion and Team Building | [Day 18](agenda/day18.html) | &mdash; | [Starner2001a](http://ieeexplore.ieee.org/document/946681/),  [Starner2001b](http://ieeexplore.ieee.org/document/946683/), [SignAloud News Release](http://www.washington.edu/news/2016/04/12/uw-undergraduate-team-wins-10000-lemelson-mit-student-prize-for-gloves-that-translate-sign-language/), and [SignAloud Gloves Demo](https://www.youtube.com/watch?v=l01sdzJHCCM)
+Wed, Nov 7 | <span class="topic-phy">PH</span> | Wearable Computing Discussion and Team Building | [Day 18](agenda/day18.html) | &mdash; | [Starner2001a](http://ieeexplore.ieee.org/document/946681/),  [Starner2001b](http://ieeexplore.ieee.org/document/946683/), [SignAloud News Release](http://www.washington.edu/news/2016/04/12/uw-undergraduate-team-wins-10000-lemelson-mit-student-prize-for-gloves-that-translate-sign-language/), and [SignAloud Gloves Demo](https://www.youtube.com/watch?v=l01sdzJHCCM)
 Mon, Nov 12 | <span class="topic-phy">PH</span> | [Lab 11: Designing Children's Toys with Scratch](labs/lab11.html) |  | | &mdash;
 Wed, Nov 14 | <span class="topic-phy">PH</span> | [Lab 12: Connecting Arduino and Processing](labs/lab12.html) | &mdash; |  [A5 outline](assign/assign05.html) (due by **Friday**) | &mdash;
-Mon, Nov 19 |  | *Thanksgiving vacaction, no class* | &mdash; | &mdash; | &mdash;
-Wed, Nov 21 | <span class="topic-phy">PH</span> | [Lab 13: Computing Machines that are Finite](labs/lab13.html) | &mdash; | &mdash; | &mdash;
+Mon, Nov 19 | <span class="topic-phy">PH</span> | [Lab 13: Computing Machines that are Finite](labs/lab13.html) | &mdash; | &mdash; | &mdash;
+Wed, Nov 21 |  | *Thanksgiving vacaction, no class* | &mdash; | &mdash; | &mdash;
 Mon, Nov 26 | <span class="topic-phy">PH</span> | Project Milestone 1 demo  | &mdash; | &mdash; | &mdash;
 Wed, Nov 28 | <span class="topic-phy">PH</span> | Work on Project  | &mdash; |  [A5 draft](assign/assign05.html) (due by **Friday**) | &mdash;
 Mon, Dec 3 | <span class="topic-phy">PH</span> | Project Milestone 2 demo on Project | &mdash; | &mdash; | &mdash;
