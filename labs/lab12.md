@@ -37,7 +37,7 @@ Once you have made those two choices you are now ready to upload to your board. 
 
 Your program should now upload to the Arduino. If successful, you will see the message below after a few seconds:
 
-> <img alt="Upload Message" style="width: 600px;" src="">
+> <img alt="Upload Message"  src="uploadMessage.png">
 
 ## Part 1 - Connecting to Your Arduino
 When using the Arduino library in Processing you can directly communicate with the Arduino by turning on/off pins and requesting different values. However, before you perform these activities you must first establish a connection to the Arduino.  
