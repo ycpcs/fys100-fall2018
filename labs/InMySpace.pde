@@ -26,7 +26,7 @@ enum State {
 State currentState = State.COMFORTABLE; // COMFORTABLE is the initial state
 
 // Variable storing a moving average of the range finder reading
-float dist = 0.0;
+float dist = 80.0;
 
 // Threshold distance
 final float THRESHOLD = 40.0;
@@ -77,6 +77,8 @@ void draw() {
   stroke(0);
   fill((int)(255.0-dist), 50, 50);
   ellipse(200, 200, (int)(255-dist), (int)(255-dist));
+  fill(0);
+  text("dist="+ String.format("%.2f", dist), 80, 350);
   
   State nextState;
   
@@ -102,18 +104,19 @@ void updateRangeFinder() {
   dist = (0.9 * dist) + (0.1 * arduino.analogRead(rangeFinderPin));
 }
 
+float theta = 0;
+
 State exec_COMFORTABLE() {
   
   // Generate output(s)
   
   // This makes the brightness of the green directly proportional
   // to the distance
-  //arduino.analogWrite(greenPin, (int)dist);
+  //arduino.analogWrite(greenPin, (int)(dist/4));
   
   // This generates a pulsing effect that is inversely
   // proportional to the distance
-  float x = .1;
-  float theta = (ticks / (256.0 - dist)) / x;
+  theta += Math.max(100 - dist, 0) / 200.0;
   float g = ((sin(theta) + 1.0) / 2.0) * 255.0;
   arduino.analogWrite(greenPin, (int)g);
   
