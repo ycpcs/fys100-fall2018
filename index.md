@@ -18,6 +18,7 @@ Welcome to the FYS 100.132 home page!  All of the information about the course w
 
 ## News
 
+* **Dec 2** &mdash; [PlayMusic-161209a.zip](resources/PlayMusic-161209a.zip) is an example Processing sketch which plays audio clips.  Note that it requires the [Minim](http://code.compartmental.net/tools/minim/) library (install it using **Sketch** &rarr; **Import Library...** &rarr; **Add Library...**, search for "Minim").
 * **Nov 12** &mdash; The [schedule](schedule.html) has been updated, and [Assignment 6](assign/assign06.html), which describes the deliverables for the team project, has been posted.
 * **Oct 26** &mdash; [Assignment 5](assign/assign05.html) has been posted; see assignment description for due dates.  The first deliverable is an annotated bibliography, which is due Friday, Nov 2nd.
 * **Oct 22** &mdash; The due date for the [Assignment 4](assign/assign04.html) final essay and code has been moved to Friday, Oct 26th.
