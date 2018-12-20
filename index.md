@@ -3,7 +3,7 @@ layout: defaultwithfonts
 title: "Home page"
 ---
 
-# FYS 100.132, Fall 2017
+# FYS 100.121, Fall 2018
 
 <div id="subtitle">Creative Computing</div>
 
